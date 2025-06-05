@@ -1,1 +1,11 @@
-{"name": "ramschat", "scripts": { "dev": "vite", "build": "vite build" }}
+{
+  "name": "ramschat",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^5.0.0",
+    "vue": "^3.4.0"
+  }
+}
